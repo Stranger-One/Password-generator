@@ -109,7 +109,7 @@ function App() {
               <label htmlFor="includesymbol" className=' text-lg capitalize '>include symbol</label>
               <input type="checkbox" id='includesymbol' checked={includesymbol} onClick={() => setIncludesymbol(!includesymbol)} className=' size-5 cursor-pointer' />
             </div>
-
+ 
           </div>
 
           <div className=' w-full h-10 bg-slate-500 flex items-center py-2 gap-2 rounded-md mt-5'>
