@@ -64,7 +64,7 @@ function App() {
         />
       </div>
 
-      <div className=" w-full h-screen bg-slate-500 flex items-center justify-center text-black ">
+      <div className=" w-full h-screen bg-slate-500 flex items-center justify-center text-white ">
 
         <div className=' min-w-[300px] min-h-[500px] bg-slate-700 flex flex-col items-center capitalize p-4 rounded-md' >
           <h1 className='text-3xl underline mb-4 ' >generate your password</h1>
